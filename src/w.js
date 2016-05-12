@@ -14,7 +14,8 @@
         var option = {
           key : key,
           active : function() {
-            win.reload();
+            gui.App.unregisterGlobalHotKey(shortcut);
+            win.reloadIgnoringCache();
           },
           failed : function(msg) {
               // :(, fail to register the |key| or couldn't parse the |key|.

@@ -5,6 +5,7 @@
   "node-remote": "<all_urls>",
   "inject_js_start": "w.js",
   "window": {
+    "icon": "logo.ico",
     "fullscreen": false,
     "width": 1200,
     "height": 800,
