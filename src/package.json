@@ -1,0 +1,15 @@
+{
+  "name": "nw-demo",
+  "version": "0.0.1",
+  "main": "http://test.4008737773.com/admin.php",
+  "node-remote": "<all_urls>",
+  "window": {
+    "icon": "",
+    "title": "interesting...",
+    "fullscreen": false,
+    "width": 1200,
+    "height": 800,
+    "frame": true,
+    "resizable": true
+  }
+}

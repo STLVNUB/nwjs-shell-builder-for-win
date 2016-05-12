@@ -1,0 +1,11 @@
+{
+  "name": "Revirapp",
+  "version": "1.0.0",
+  "description": "My app description",
+  "iconPath": "/path/to/png/icon/file/icon.png",
+  "windowsIconPath": "logo.ico",
+  "osxIconPath": "/path/to/icns/icon/file/gisto.icns",
+  "osxBgPath": "/path/to/background.png/file",
+  "CFBundleIdentifier": "com.myapp.app",
+  "license": "LICENSE"
+}
