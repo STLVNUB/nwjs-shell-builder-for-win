@@ -1,9 +1,7 @@
 (function (require) {
     var gui = require('nw.gui');
     var win = gui.Window.get();
-    win.on('resize', function () {
-        win.reload();
-    });
+
     if (!win.maximizeInited) {
         win.maximize();
         win.maximizeInited = true;
