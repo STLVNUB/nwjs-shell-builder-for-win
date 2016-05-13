@@ -4,6 +4,6 @@ w_name="mua"
 w_description="made by River[revir.qing@gmail.com]"
 w_license="${BUILD_DIR}/LICENSE"
 w_version="1.0"
-w_windowsIconPath="${BUILD_DIR}/logo.ico"
+w_windowsIconPath="${BUILD_DIR}/src/logo.ico"
 w_src="${BUILD_DIR}/src"
 w_nwjsVersion='0.14.4'
